@@ -1,0 +1,2820 @@
+[
+  {
+    "date": "2026-01-14T18:10:16.940Z",
+    "dateString": "14.1.2026",
+    "runNumber": 1,
+    "totalTime": 20422.900000572205,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4832
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 6520.5
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 12414.300000190735
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 18064.900000572205
+      }
+    ],
+    "audioOffset": 16660,
+    "ampelResult": "NEUTRAL",
+    "category": "Silber"
+  },
+  {
+    "date": "2026-01-14T18:16:38.893Z",
+    "dateString": "14.1.2026",
+    "runNumber": 2,
+    "totalTime": 23631.699999809265,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4663.599999427795
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 7791.199999809265
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 13167.300000190735
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 18048.300000190735
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 22079.5
+      }
+    ],
+    "audioOffset": 16660,
+    "ampelResult": "NEUTRAL",
+    "category": "Silber"
+  },
+  {
+    "date": "2026-01-14T18:22:39.755Z",
+    "dateString": "14.1.2026",
+    "runNumber": 3,
+    "totalTime": 25337.300000190735,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4745
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 6576.89999961853
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 14962
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 20121.300000190735
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 23497
+      }
+    ],
+    "audioOffset": 16660,
+    "ampelResult": "NEUTRAL",
+    "category": "Silber"
+  },
+  {
+    "date": "2026-01-14T18:28:20.514Z",
+    "dateString": "14.1.2026",
+    "runNumber": 4,
+    "totalTime": 20982.10000038147,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4838.699999809265
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 6838.10000038147
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 12534.199999809265
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 17230.5
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 20822.400000572205
+      }
+    ],
+    "audioOffset": 16660,
+    "ampelResult": "NEUTRAL",
+    "category": "Silber"
+  },
+  {
+    "date": "2026-01-14T18:33:27.532Z",
+    "dateString": "14.1.2026",
+    "runNumber": 5,
+    "totalTime": 25603.89999961853,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4579.800000190735
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 7747.699999809265
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 15131.39999961853
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 22427.5
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 25603.89999961853
+      }
+    ],
+    "audioOffset": 16660,
+    "ampelResult": "NEUTRAL",
+    "category": "Silber"
+  },
+  {
+    "date": "2026-01-14T18:39:27.046Z",
+    "dateString": "14.1.2026",
+    "runNumber": 6,
+    "totalTime": 45656,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4523.199999809265
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 7505.299999237061
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 18056.39999961853
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 42048.599999427795
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 44143.5
+      }
+    ],
+    "audioOffset": 16660,
+    "ampelResult": "ROT",
+    "category": "Silber"
+  },
+  {
+    "date": "2026-01-14T18:45:39.199Z",
+    "dateString": "14.1.2026",
+    "runNumber": 7,
+    "totalTime": 16081.70000076294,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 5070.700000762939
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 7238.60000038147
+      }
+    ],
+    "audioOffset": 16660,
+    "ampelResult": "GRÜN",
+    "category": "Silber"
+  },
+  {
+    "date": "2026-01-14T18:49:00.296Z",
+    "dateString": "14.1.2026",
+    "runNumber": 8,
+    "totalTime": 22603.5,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4717.39999961853
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 6515.599999427795
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 11851.5
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 17867.39999961853
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 21318.5
+      }
+    ],
+    "audioOffset": 16660,
+    "ampelResult": "NEUTRAL",
+    "category": "Silber"
+  },
+  {
+    "date": "2026-01-14T18:56:39.902Z",
+    "dateString": "14.1.2026",
+    "runNumber": 9,
+    "totalTime": 26005.70000076294,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4685.300000190735
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 6134.200000762939
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 13829.70000076294
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 18765.5
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 22005.800000190735
+      }
+    ],
+    "audioOffset": 16660,
+    "ampelResult": "NEUTRAL",
+    "category": "Silber"
+  },
+  {
+    "date": "2026-01-14T19:03:35.588Z",
+    "dateString": "14.1.2026",
+    "runNumber": 10,
+    "totalTime": 25150.5,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4598.5
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 6459.400000572205
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 16500.300000190735
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 22268.300000190735
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 25150.5
+      }
+    ],
+    "audioOffset": 16660,
+    "ampelResult": "NEUTRAL",
+    "category": "Silber"
+  },
+  {
+    "date": "2026-01-14T19:12:00.335Z",
+    "dateString": "14.1.2026",
+    "runNumber": 11,
+    "totalTime": 26871.699999809265,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4417.599999427795
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 7392.699999809265
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 15608.89999961853
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 21955.89999961853
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 25843.199999809265
+      }
+    ],
+    "audioOffset": 16660,
+    "ampelResult": "NEUTRAL",
+    "category": "Silber"
+  },
+  {
+    "date": "2026-01-14T19:20:15.549Z",
+    "dateString": "14.1.2026",
+    "runNumber": 12,
+    "totalTime": 33298.10000038147,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4914.300000190735
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 7466.10000038147
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 15618.199999809265
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 22506.400000572205
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 31250.300000190735
+      }
+    ],
+    "audioOffset": 16660,
+    "ampelResult": "ROT",
+    "category": "Bronze"
+  },
+  {
+    "date": "2026-01-14T19:46:53.358Z",
+    "dateString": "14.1.2026",
+    "runNumber": 13,
+    "totalTime": 40128.800000190735,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 21201.400000572205
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 22827.800000190735
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 29368.199999809265
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 34976
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 38904.60000038147
+      }
+    ],
+    "audioOffset": 16660,
+    "ampelResult": "ROT",
+    "category": "Silber"
+  },
+  {
+    "date": "2026-01-25T17:18:38.276Z",
+    "runNumber": 1,
+    "mode": "withoutBumper",
+    "totalTime": 36098,
+    "steps": [
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 36098
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 36098
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-01-25T17:24:30.778Z",
+    "runNumber": 2,
+    "mode": "withoutBumper",
+    "totalTime": 35502,
+    "steps": [
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 35502
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 35502
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-01-25T18:13:40.519Z",
+    "runNumber": 3,
+    "mode": "withoutBumper",
+    "totalTime": 44578,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 5912
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 43712
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 44578
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 44578
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-01-25T18:19:15.442Z",
+    "runNumber": 4,
+    "mode": "withoutBumper",
+    "totalTime": 32629,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 5129
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 9001
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 16672
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 28258
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 32629
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 32629
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-01-25T18:26:46.063Z",
+    "runNumber": 5,
+    "mode": "withoutBumper",
+    "totalTime": 45940,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4864
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 8172
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 28044
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 36996
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 45940
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 45940
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-01-25T18:33:20.492Z",
+    "runNumber": 6,
+    "mode": "withoutBumper",
+    "totalTime": 39512,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 38681
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 39096
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 39233
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 39371
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 39512
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 39512
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-01-28T18:12:18.055Z",
+    "runNumber": 1,
+    "mode": "withoutBumper",
+    "totalTime": 21167,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4143
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 5510
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 13150
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 18582
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 21167
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 21167
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-01-28T18:17:07.877Z",
+    "runNumber": 2,
+    "mode": "withoutBumper",
+    "totalTime": 25858,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4241
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 5193
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 14273
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 22986
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 25858
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 25858
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-01-28T18:22:57.438Z",
+    "runNumber": 3,
+    "mode": "withoutBumper",
+    "totalTime": 34803,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 5587
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 10091
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 19788
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 31555
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 34803
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 34803
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-01-28T18:29:52.228Z",
+    "runNumber": 4,
+    "mode": "withoutBumper",
+    "totalTime": 37764,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 5332
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 11740
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 21124
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 33541
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 37764
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 37764
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-01-28T18:41:03.380Z",
+    "runNumber": 5,
+    "mode": "withoutBumper",
+    "totalTime": 33600,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 188
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 6605
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 21928
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 30757
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 33600
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 33600
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-01-28T18:45:30.426Z",
+    "runNumber": 6,
+    "mode": "withoutBumper",
+    "totalTime": 30728,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4463
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 6143
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 17783
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 22567
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 30728
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 30728
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-01-28T18:54:04.897Z",
+    "runNumber": 7,
+    "mode": "withoutBumper",
+    "totalTime": 50542,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 5198
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 9878
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 37190
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 46694
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 50542
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 50542
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-01-28T18:59:50.065Z",
+    "runNumber": 8,
+    "mode": "withoutBumper",
+    "totalTime": 35212,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 5116
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 8812
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 19260
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 31659
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 35212
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 35212
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-01-28T19:08:17.798Z",
+    "runNumber": 9,
+    "mode": "withoutBumper",
+    "totalTime": 32003,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4882
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 8237
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 18413
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 29763
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 32003
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 32003
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-01-28T19:18:14.428Z",
+    "runNumber": 10,
+    "mode": "withoutBumper",
+    "totalTime": 44178,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 5377
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 8729
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 29816
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 37554
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 44178
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 44178
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-01-28T19:24:11.421Z",
+    "runNumber": 11,
+    "mode": "withoutBumper",
+    "totalTime": 21825,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4351
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 5543
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 13295
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 19335
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 21825
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 21825
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-01-28T19:28:25.072Z",
+    "runNumber": 12,
+    "mode": "withoutBumper",
+    "totalTime": 23477,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 3894
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 4670
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 15006
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 20662
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 23477
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 23477
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-01-28T19:33:00.631Z",
+    "runNumber": 13,
+    "mode": "withoutBumper",
+    "totalTime": 20213,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4213
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 5438
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 12741
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 17725
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 20213
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 20213
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-01T17:56:00.471Z",
+    "runNumber": 1,
+    "mode": "withoutBumper",
+    "totalTime": 32468,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4708
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 8434
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 13936
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 24218
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 32468
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 32468
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-01T18:06:34.654Z",
+    "runNumber": 2,
+    "mode": "withoutBumper",
+    "totalTime": 58845,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 8032
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 10244
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 22446
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 54404
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 58845
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 58845
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-01T18:16:00.458Z",
+    "runNumber": 3,
+    "mode": "withoutBumper",
+    "totalTime": 37420,
+    "steps": [
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 37420
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 37420
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-01T18:22:58.205Z",
+    "runNumber": 4,
+    "mode": "withoutBumper",
+    "totalTime": 37935,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 6005
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 9717
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 19110
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 32415
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 37935
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 37935
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-01T18:33:49.550Z",
+    "runNumber": 5,
+    "mode": "withoutBumper",
+    "totalTime": 318416,
+    "steps": [
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 318416
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 318416
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-01T18:35:14.847Z",
+    "runNumber": 6,
+    "mode": "withoutBumper",
+    "totalTime": 33912,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 5560
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 8008
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 18464
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 25104
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 33912
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 33912
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-01T18:42:10.030Z",
+    "runNumber": 7,
+    "mode": "withoutBumper",
+    "totalTime": 44738,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 5266
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 18394
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 40773
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 44738
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 44738
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-01T18:47:13.434Z",
+    "runNumber": 8,
+    "mode": "withoutBumper",
+    "totalTime": 32354,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 5561
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 8170
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 17233
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 24268
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 32354
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 32354
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-01T18:54:25.334Z",
+    "runNumber": 9,
+    "mode": "withoutBumper",
+    "totalTime": 22711,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4383
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 6183
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 14630
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 19079
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 22711
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 22711
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-01T18:57:36.523Z",
+    "runNumber": 10,
+    "mode": "withoutBumper",
+    "totalTime": 21568,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4262
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 6566
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 13030
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 17734
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 21568
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 21568
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-01T19:01:41.022Z",
+    "runNumber": 11,
+    "mode": "withoutBumper",
+    "totalTime": 17434,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 3891
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 5771
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 10787
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 15411
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 17434
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 17434
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-01T19:05:10.584Z",
+    "runNumber": 12,
+    "mode": "withoutBumper",
+    "totalTime": 15078,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4125
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 5381
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 9893
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 15457
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 17854
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 15078
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-04T18:10:36.858Z",
+    "runNumber": 1,
+    "mode": "withoutBumper",
+    "totalTime": 20762,
+    "steps": [
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 20762
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 20762
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-04T18:15:06.934Z",
+    "runNumber": 2,
+    "mode": "withoutBumper",
+    "totalTime": 21021,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4094
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 6557
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 12279
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 19093
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 21021
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 21021
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-04T18:23:07.890Z",
+    "runNumber": 3,
+    "mode": "withoutBumper",
+    "totalTime": 36955,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 6654
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 10916
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 22988
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 33876
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 36955
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 36955
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-04T18:30:14.014Z",
+    "runNumber": 4,
+    "mode": "withoutBumper",
+    "totalTime": 35946,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 6882
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 10965
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 24460
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 32826
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 35946
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 35946
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-04T18:34:49.491Z",
+    "runNumber": 5,
+    "mode": "withoutBumper",
+    "totalTime": 39923,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 5323
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 8315
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 23595
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 34707
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 39923
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 39923
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-04T18:40:05.979Z",
+    "runNumber": 6,
+    "mode": "withoutBumper",
+    "totalTime": 48420,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 5443
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 8603
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 33524
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 45228
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 48420
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 48420
+      }
+    ],
+    "category": "B"
+  },
+  {
+    "date": "2026-02-04T18:46:21.870Z",
+    "runNumber": 7,
+    "mode": "withoutBumper",
+    "totalTime": 20818,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 3787
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 5307
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 9498
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 18186
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 20818
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 20818
+      }
+    ],
+    "category": "B"
+  },
+  {
+    "date": "2026-02-04T18:51:11.727Z",
+    "runNumber": 8,
+    "mode": "withoutBumper",
+    "totalTime": 22716,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 3932
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 5220
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 12956
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 18828
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 22716
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 22716
+      }
+    ],
+    "category": "B"
+  },
+  {
+    "date": "2026-02-04T18:56:21.418Z",
+    "runNumber": 9,
+    "mode": "withoutBumper",
+    "totalTime": 17788,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 3757
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 4897
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 9499
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 17155
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 16273
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 16273
+      }
+    ],
+    "category": "B"
+  },
+  {
+    "date": "2026-02-04T19:10:37.219Z",
+    "runNumber": 10,
+    "mode": "withoutBumper",
+    "totalTime": 67410,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 9787
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 11797
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 29722
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 66226
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 67410
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 67410
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-04T19:17:43.280Z",
+    "runNumber": 11,
+    "mode": "withoutBumper",
+    "totalTime": 54901,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 42478
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 43813
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 50734
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 54901
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 54901
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-04T19:23:25.227Z",
+    "runNumber": 12,
+    "mode": "withBumper",
+    "totalTime": 34063,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 5637
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 7541
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 16789
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 28333
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 32761
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 34063
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-04T19:28:31.459Z",
+    "runNumber": 13,
+    "mode": "withoutBumper",
+    "totalTime": 30605,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 6060
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 8099
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 14988
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 21412
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 25364
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 25364
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-08T17:12:53.014Z",
+    "runNumber": 1,
+    "mode": "withoutBumper",
+    "totalTime": 27282,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4482
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 7713
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 16371
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 22276
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 27282
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 27282
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-08T17:17:13.709Z",
+    "runNumber": 2,
+    "mode": "withoutBumper",
+    "totalTime": 33737,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4993
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 6600
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 22784
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 29224
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 33737
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 33737
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-08T17:26:49.295Z",
+    "runNumber": 3,
+    "mode": "withoutBumper",
+    "totalTime": 41178,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 6538
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 8842
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 18146
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 24354
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 41178
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 41178
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-08T17:31:44.180Z",
+    "runNumber": 4,
+    "mode": "withoutBumper",
+    "totalTime": 36169,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 5226
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 9570
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 18715
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 27341
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 36169
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 36169
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-08T17:36:48.600Z",
+    "runNumber": 5,
+    "mode": "withoutBumper",
+    "totalTime": 29439,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 6941
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 13885
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 19637
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 28229
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 29439
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 29439
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-08T17:41:20.196Z",
+    "runNumber": 6,
+    "mode": "withoutBumper",
+    "totalTime": 27915,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 27
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 5758
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 17340
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 26964
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 27915
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 27915
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-08T17:46:02.452Z",
+    "runNumber": 7,
+    "mode": "withoutBumper",
+    "totalTime": 21505,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4520
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 6745
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 12027
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 18785
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 21505
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 21505
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-08T17:50:53.046Z",
+    "runNumber": 8,
+    "mode": "withoutBumper",
+    "totalTime": 26453,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4261
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 8149
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 17175
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 23440
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 26453
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 26453
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-08T17:55:30.277Z",
+    "runNumber": 9,
+    "mode": "withoutBumper",
+    "totalTime": 20472,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4033
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 6152
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 12416
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 18032
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 20472
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 20472
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-08T18:01:57.871Z",
+    "runNumber": 10,
+    "mode": "withoutBumper",
+    "totalTime": 22290,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4378
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 6564
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 12554
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 18466
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 22290
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 22290
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-08T18:06:01.665Z",
+    "runNumber": 11,
+    "mode": "withoutBumper",
+    "totalTime": 21841,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4464
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 8257
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 12107
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 18812
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 21841
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 21841
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-08T18:14:16.026Z",
+    "runNumber": 12,
+    "mode": "withoutBumper",
+    "totalTime": 42794,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 7059
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 11283
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 28147
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 42794
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 42794
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-08T18:19:15.884Z",
+    "runNumber": 13,
+    "mode": "withoutBumper",
+    "totalTime": 43523,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 6403
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 12860
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 24249
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 36809
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 43523
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 43523
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-08T18:23:31.634Z",
+    "runNumber": 14,
+    "mode": "withoutBumper",
+    "totalTime": 38758,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 6214
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 11878
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 28086
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 35565
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 38758
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 38758
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-08T18:29:16.067Z",
+    "runNumber": 15,
+    "mode": "withoutBumper",
+    "totalTime": 26540,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 3857
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 5393
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 12818
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 23482
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 26540
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 26540
+      }
+    ],
+    "category": "B"
+  },
+  {
+    "date": "2026-02-08T18:32:50.252Z",
+    "runNumber": 16,
+    "mode": "withoutBumper",
+    "totalTime": 25564,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4012
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 6076
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 14452
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 23324
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 25564
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 25564
+      }
+    ],
+    "category": "B"
+  },
+  {
+    "date": "2026-02-08T18:37:44.109Z",
+    "runNumber": 17,
+    "mode": "withoutBumper",
+    "totalTime": 21734,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 4150
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 5859
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 13059
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 18850
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 21734
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 21734
+      }
+    ],
+    "category": "B"
+  },
+  {
+    "date": "2026-02-08T18:42:09.486Z",
+    "runNumber": 18,
+    "mode": "withoutBumper",
+    "totalTime": 21068,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 3918
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 5323
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 9436
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 17858
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 21068
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 21068
+      }
+    ],
+    "category": "B"
+  },
+  {
+    "date": "2026-02-08T18:47:10.899Z",
+    "runNumber": 19,
+    "mode": "withoutBumper",
+    "totalTime": 18931,
+    "steps": [
+      {
+        "id": "ausgelegt",
+        "name": "Ausgelegt",
+        "timestamp": 3803
+      },
+      {
+        "id": "saugkopf",
+        "name": "Saugkopf fertig",
+        "timestamp": 5413
+      },
+      {
+        "id": "kuppeln",
+        "name": "Kuppeln fertig",
+        "timestamp": 9766
+      },
+      {
+        "id": "leinen",
+        "name": "Leinen angelegt",
+        "timestamp": 15940
+      },
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 18931
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 18931
+      }
+    ],
+    "category": "B"
+  },
+  {
+    "date": "2026-02-11T18:11:45.431Z",
+    "runNumber": 1,
+    "mode": "withoutBumper",
+    "totalTime": 49328,
+    "steps": [
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 49328
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 49328
+      }
+    ],
+    "category": "S"
+  },
+  {
+    "date": "2026-02-11T18:18:18.030Z",
+    "runNumber": 2,
+    "mode": "withoutBumper",
+    "totalTime": 82522,
+    "steps": [
+      {
+        "id": "angesaugt",
+        "name": "Angesaugt",
+        "timestamp": 82522
+      },
+      {
+        "id": "ende",
+        "name": "Ende",
+        "timestamp": 82522
+      }
+    ],
+    "category": "S"
+  }
+]
